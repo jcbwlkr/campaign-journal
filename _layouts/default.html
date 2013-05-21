@@ -14,11 +14,15 @@
     <body>
         <div class="container">
           <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/party/">Party</a>
-              <a class="extra" href="/characters/">Characters</a>
-              <a class="extra" href="/loot/">Loot</a>
+            <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                    <a class="brand" href="/">{{ site.name }}</a>
+                    <ul class="nav">
+                        <li><a href="/party/">Party</a></li>
+                        <li><a href="/characters/">Characters</a></li>
+                        <li><a href="/loot/">Loot</a></li>
+                    </ul>
+                </div>
             </div>
             {{ content }}
             <div class="footer">
