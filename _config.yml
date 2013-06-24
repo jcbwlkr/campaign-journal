@@ -1,3 +1,5 @@
 name: Red Hand of Doom - Campaign Journal
 pygments: true
-baseurl: campaign-journal
+safe: true
+lsi: false
+baseurl: http://jacobwalker0814.github.com/campaign-journal
