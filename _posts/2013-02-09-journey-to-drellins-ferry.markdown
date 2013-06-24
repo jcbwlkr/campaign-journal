@@ -46,6 +46,7 @@ As the party traveled the remaining distance to Drellin's Ferry they heard a str
 Tim the Warmage met his untimely end upon the tusks of one of the boars. With animal furor the dire beast spread Tim's entrails about the ground like silly string at a child's birthday party. The gory site was too much for Skytalon's delicate constitution and he quickly lost his lunch.
 
 ## Arrival in Drellin's Ferry
+<div style="float: right"><img src="{{ site.baseurl }}/img/maps/DrellinsFerry.jpg" /></div>
 The surviving members of the party wearily made their way to Drellin's Ferry. They were stopped by suspicious guards as they entered the town. Apparently there had been many recent encounters with green skinned bandits and the local militia was on alert. At word of the party's victory over their hobgoblin attackers the guards welcomed the party in as heroes. The guards have our heroes directions to the Old Bridge Inn where they acquired rooms and sufficient ale to honor their fallen comrade Tim the Warmage, who was picked over for party loot and unceremoniously left scattered about the road a few miles outside of town.
 
 Shortly after their arrival at the Old Bridge Inn the party was introduced to the Town Speaker, Norro Wiston, and Soranna the Captain of the Guard. These representatives of the town had heard word (probably exaggerated word) of the party's exploits and wished to impose upon them. They explained that the town had recently been plagued by skirmishes and encounters with roving bands of hobgoblins. They impressed upon the party to search out and eliminate this threat to their town's wellbeing. For a small sum of money the party agreed.
@@ -54,5 +55,3 @@ Now it should be noted at this time that when Killian and Soranna met eyes there
 
 During this conversation the party learned of a keep formally of the expired House of Vrath in the forest outside of town called the Witchwood. The party surmised that this keep was probably the location of the rumored treasure that brought them to this region initially. Freshly charged with the defense of the town and with a lead on their fabled treasure the party made plans to set forth in the morning.
 
-### Map of Drellin's Ferry
-<img src="{{ site.baseurl }}/img/maps/DrellinsFerry.jpg" />
