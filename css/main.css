@@ -4,3 +4,19 @@ img {
     margin-left: 4px;
     margin-right: 4px;
 }
+
+.right {
+    float: right;
+    text-align: right;
+}
+
+.left {
+    float: left;
+    text-align: left;
+}
+
+.image-frame .source {
+    margin: 3px 0px 0px 0px;
+    padding: 0px;
+    font-style: italic;
+}
