@@ -26,7 +26,7 @@ During those epic encounters the party caught wind of tales of a treasure in an 
 The trip to Drellin's Ferry was mostly uneventful. Stormy used her archery prowess to hunt game for the party's feasts and Gerbert convinced the local fauna to gather nuts and berries for some delectable side dishes.
 
 ## Ambush!
-<div style="float: right"><img width="300px" height="412px" src="/img/ambush.jpg" /></div>
+<div style="float: right"><img width="300px" height="412px" src="{{ site.baseurl }}/img/ambush.jpg" /></div>
 When the party was a half day's walk from their destination things finally got interesting. Overconfident and off their guard from their peaceful travels, our heroes were caught in an ambush! As they rounded a corner (as in all good ambushes) a dozen hobgoblins sprung from the bushes. Once their initial shock wore off the party hastily brandished their weapons and prepared to defend themselves with deadly force.
 
 Unfortunately for our heroes this was no meager ambush of hobgoblins alone. The gobbos were accompanied by several hell hounds and as the fight erupted more portals to the lower planes opened and more hell hounds burst forth. The party showed that just as this was no normal ambush, they were no normal ambushees. When it became clear to the assailants that their prey would be no easy meat the leaders of the bandits emerged. Two elite hobgoblin blade-masters set in to the travelers with equal parts flourish and fervor.
@@ -55,4 +55,4 @@ Now it should be noted at this time that when Killian and Soranna met eyes there
 During this conversation the party learned of a keep formally of the expired House of Vrath in the forest outside of town called the Witchwood. The party surmised that this keep was probably the location of the rumored treasure that brought them to this region initially. Freshly charged with the defense of the town and with a lead on their fabled treasure the party made plans to set forth in the morning.
 
 ### Map of Drellin's Ferry
-<img src="/img/maps/DrellinsFerry.jpg" />
+<img src="{{ site.baseurl }}/img/maps/DrellinsFerry.jpg" />
