@@ -45,7 +45,7 @@ As the party traveled the remaining distance to Drellin's Ferry they heard a str
 
 Tim the Warmage met his untimely end upon the tusks of one of the boars. With animal furor the dire beast spread Tim's entrails about the ground like silly string at a child's birthday party. The gory site was too much for Skytalon's delicate constitution and he quickly lost his lunch.
 
-<br /> <!-- omg hack -->
+<br />
 ## Arrival in Drellin's Ferry
 <div class="image-frame right"><img src="{{ site.baseurl }}/img/maps/DrellinsFerry.jpg" /><p class="source">Source: Wizards of the Coast</p></div>
 The surviving members of the party wearily made their way to Drellin's Ferry. They were stopped by suspicious guards as they entered the town. Apparently there had been many recent encounters with green skinned bandits and the local militia was on alert. At word of the party's victory over their hobgoblin attackers the guards welcomed the party in as heroes. The guards have our heroes directions to the Old Bridge Inn where they acquired rooms and sufficient ale to honor their fallen comrade Tim the Warmage, who was picked over for party loot and unceremoniously left scattered about the road a few miles outside of town.
