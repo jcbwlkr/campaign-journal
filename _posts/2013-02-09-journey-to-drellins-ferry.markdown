@@ -7,7 +7,7 @@ categories: session
 
 # Players in Attendance
 * [Killian Gerlach]({{site.baseurl}}/party/killian_gerlach.html)
-* [Oren RocKnocker]({{site.baseurl}}/party/oren_rocknocker.html)
+* [Oren Rocknocker]({{site.baseurl}}/party/oren_rocknocker.html)
 * [Stormy Skye]({{site.baseurl}}/party/stormy_sky.html)
 * [Mr. Fabulous]({{site.baseurl}}/party/mr_fabulous.html)
 * ["Skytalon" Krusk of Darkfeather]({{site.baseurl}}/party/krusk.html)
@@ -16,7 +16,7 @@ categories: session
 * [Tim the Warmage]({{site.baseurl}}/party/tim_the_warmage.html)
 
 # Background
-The aforementioned characters, hereafter referred to as "the party," have a long history together that predates this campaign. Most of that history involves Mr. Fabulous performing shady deeds, Jeff the Warlock saving Oren RocKnocker's life and Killian Gerlach telling everyone what to do. The specifics details of those adventures will not be found here but would probably be learned over a mug of ale.
+The aforementioned characters, hereafter referred to as "the party," have a long history together that predates this campaign. Most of that history involves Mr. Fabulous performing shady deeds, Jeff the Warlock saving Oren Rocknocker's life and Killian Gerlach telling everyone what to do. The specifics details of those adventures will not be found here but would probably be learned over a mug of ale.
 
 During those epic encounters the party caught wind of tales of a treasure in an abandoned keep near the southern town of Drellin's Ferry. With visions of gold, conquests, ale, and a hero's reputation the party set forth from the major city of Brindol upon the merchant road "The Dawn's Way" bound for Drellin's Ferry.
 
