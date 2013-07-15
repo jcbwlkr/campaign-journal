@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h2>{{ page.place_name}}</h2>
+<div class="image-frame right">
+    <a href="{{ site.baseurl }}/img/maps/{{ page.place_map }}"><img width="300px" src="{{ site.baseurl }}/img/maps/{{ page.place_map }}" /></a>
+    <p class="source">Source: {{ page.place_map_source }}</p>
+</div>
+<ul>
+    <li><strong>Population:</strong> {{page.place_population}}</li>
+</ul>
+{{ content }}

@@ -47,7 +47,6 @@ Tim the Warmage met his untimely end upon the tusks of one of the boars. With an
 
 <br />
 ## Arrival in Drellin's Ferry
-<div class="image-frame right"><img src="{{ site.baseurl }}/img/maps/DrellinsFerry.jpg" /><p class="source">Source: Wizards of the Coast</p></div>
 The surviving members of the party wearily made their way to Drellin's Ferry. They were stopped by suspicious guards as they entered the town. Apparently there had been many recent encounters with green skinned bandits and the local militia was on alert. At word of the party's victory over their hobgoblin attackers the guards welcomed the party in as heroes. The guards have our heroes directions to the Old Bridge Inn where they acquired rooms and sufficient ale to honor their fallen comrade Tim the Warmage, who was picked over for party loot and unceremoniously left scattered about the road a few miles outside of town.
 
 Shortly after their arrival at the Old Bridge Inn the party was introduced to the Town Speaker, Norro Wiston, and Soranna the Captain of the Guard. These representatives of the town had heard word (probably exaggerated word) of the party's exploits and wished to impose upon them. They explained that the town had recently been plagued by skirmishes and encounters with roving bands of hobgoblins. They impressed upon the party to search out and eliminate this threat to their town's wellbeing. For a small sum of money the party agreed.
