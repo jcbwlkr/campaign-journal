@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if page.pc_image %}
+<div class="image-frame right">
+    <img src="{{ site.baseurl }}/img/party/{{ page.pc_image }}" />
+    <p class="source">Source: {{ page.pc_image_source }}</p>
+</div>
+{% endif %}
 <h2>{{ page.pc_name }}</h2>
 <h3>Level {{ page.pc_level}}</h3>
 <h3>{{ page.pc_class}}</h3>

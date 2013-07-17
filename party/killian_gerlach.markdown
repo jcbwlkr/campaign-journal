@@ -6,8 +6,9 @@ pc_level: 7
 pc_class: Wizard 5 / Knight Phantom 2
 pc_race: Human
 pc_player: Brad
+pc_image: killian.jpg
+pc_image_source: Brad Stuhlsatz
 ---
-<div class="image-frame right"><img src="{{ site.baseurl }}/img/party/killian.jpg" /><p class="source">Source: Brad Stuhlsatz</p></div>
 A citizen of Aundair, born in the small town of Bluevine, a farming community in the breadbasket of the country... Killian was never satisfied with the idea of carrying on the farming tradition of his aunt and uncle, with whom he had lived since his parents had disappeared while he was still a young boy.
 
 On Killian’s eleventh birthday, he was visited by an owl messenger from the Floating Towers Arcanix, home to the Arcane Congress and to Hogwart’s, one of the premier schools of wizardry in all the land. Killian’s family was reluctant to let him go, but the next day, a very large man, the Head Groundskeeper at Hogwarts, showed up and convinced them that it would be in their best interest to let young Killian go.

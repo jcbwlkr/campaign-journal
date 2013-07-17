@@ -6,7 +6,10 @@ pc_level: 6
 pc_class: Barbarian
 pc_race: Half Orc
 pc_player: David
+pc_image: krusk.jpg
+pc_image_source: Brad Stuhlsatz
 ---
+# History
 Before we discuss the half-orc that  will come to be known as Skytalon, we must first understand his origins.
 
 The Greyskull tribe was once a flourishing band of hunter-gatherers that coexisted well with their human neighbors, at least until the humans began to expand. They drove away the game, chopped down the trees, and plundered the land ruthlessly. The orcs had little choice but to retaliate, and were all but decimated for their efforts. Having lost nearly all of their males, the remainder of the tribe migrated west, and were forced to breed with humans or die out.
@@ -18,3 +21,6 @@ His training halted, Grom quickly found himself to be valueless to his tribe, un
 Despite his aversion to blood, which as he grew had caused him to forsake meat and fish, his orcish blood ran strong in his veins, and when he entered his rage it was fearsome to behold. (FEAT: Reckless Rage)
 
 Eventually his fellow warriors accepted his strange style, though they encouraged his continued practice on his aim (FEAT: Precise Shot).
+
+# Current Whereabouts
+Skytalon was last seen entering the Witchwood near Drellin's Ferry to make camp rather than risk a conflict with the town guards. As he is prone to do he wandered off and has not been heard from since. He is feared lost.

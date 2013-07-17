@@ -53,5 +53,4 @@ Shortly after their arrival at the Old Bridge Inn the party was introduced to th
 
 Now it should be noted at this time that when Killian and Soranna met eyes there was an instant, mutual, and strong attraction. Like a budding rose, neither dared speak of it lest they risk damaging its delicate petals.
 
-During this conversation the party learned of a keep formally of the expired House of Vrath in the forest outside of town called the Witchwood. The party surmised that this keep was probably the location of the rumored treasure that brought them to this region initially. Freshly charged with the defense of the town and with a lead on their fabled treasure the party made plans to set forth in the morning.
-
+During this conversation the party learned of a keep formally of the expired House of Vraath in the forest outside of town called the Witchwood. The party surmised that this keep was probably the location of the rumored treasure that brought them to this region initially. Freshly charged with the defense of the town and with a lead on their fabled treasure the party made plans to set forth in the morning.
