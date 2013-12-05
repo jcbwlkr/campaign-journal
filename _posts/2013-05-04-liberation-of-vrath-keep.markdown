@@ -63,5 +63,8 @@ The party did not make it through the encounter unscathed. The evil sorcerer put
 
 Searching Koth's quarters and the rest of the tower yielded some significant [loot]({{site.baseurl}}/loot/) including a [Map of Koth's invasion plan](/img/KothsMap.jpg) and a [Staff of Life](http://www.d20srd.org/srd/magicItems/staffs.htm#life) with 7 charges.
 
+## The Manticore Remains
+As the party is making their exit from the keep they discover that the manticore they had previously observed has moved from his nest and is perched on top of the keep's outer wall. The manticore is intelligent enough to know that his employer has just been slain and has no real desire for a direct confrontation. He demands that the party leave what he considers his home and brandishes his tail spikes to show his intentions of violence should the party fail to acquiesce. They acquiesce.
+
 # Session Wrap-Up
 For their valiant deeds and stalwart control over their bowels and bladders during combat {{ killian }}, {{ oren }}, {{ stormy }}, {{ mr_fabulous }} and {{ jeff }} attained level 7!
