@@ -11,9 +11,10 @@ title: Party
 * [Stormy Skye]({{ site.baseurl }}/party/stormy_skye.html) - Elf - Level 7 Fighter (Krystal)
 * [Zevy]({{ site.baseurl }}/party/zevy.html) - Dwarf - Level 6 Fighter (Ben)
 * [Gerbert Greystone]({{ site.baseurl }}/party/gerbert_greystone.html) - Elf - Level 6 Druid (Marty)
+* [Elwin Glissando]({{ site.baseurl }}/party/elwin_glissando.html) - Human - Level 7 Bard (Chris)
 
 ## Inactive
-* ["SkyTalon" Krusk of Darkfeather]({{ site.baseurl }}/party/krusk.html) - Half Orc - Level 6 Barbarian (David)
+* ["SkyTalon" Krusk of Darkfeather]({{ site.baseurl }}/party/krusk.html) - Half Orc - Level 7 Barbarian (David)
 
 ## Deceased
 * [Tim the Warmage]({{ site.baseurl }}/party/tim_the_warmage.html) - Human - Level 6 Warmage (Tim)
