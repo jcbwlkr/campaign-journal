@@ -1,9 +1,9 @@
 ---
 layout: pc
-title: Killian Gerlach
-pc_name: Killian Gerlach
-pc_level: 7
-pc_class: Wizard 5 / Knight Phantom 2
+title: Killian Warsteiner Gerlach
+pc_name: Killian Warsteiner Gerlach
+pc_level: 8
+pc_class: Wizard 5 / Knight Phantom 3
 pc_race: Human
 pc_player: Brad
 pc_image: killian.jpg

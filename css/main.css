@@ -33,3 +33,9 @@ img {
     padding: 0px;
     font-style: italic;
 }
+
+.posts .date {
+    white-space: pre;
+    font-family: monospace;
+    font-size: 0.75em;
+}
