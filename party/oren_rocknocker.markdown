@@ -2,7 +2,7 @@
 layout: pc
 title: Oren Rocknocker
 pc_name: Oren Rocknocker
-pc_level: 7
+pc_level: 8
 pc_class: Cleric
 pc_race: Dwarf
 pc_player: Mike

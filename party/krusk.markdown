@@ -2,7 +2,7 @@
 layout: pc
 title: '"Skytalon" Krusk of Darkfeather'
 pc_name: '"Skytalon" Krusk of Darkfeather'
-pc_level: 6
+pc_level: 7
 pc_class: Barbarian
 pc_race: Half Orc
 pc_player: David
