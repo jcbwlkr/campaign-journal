@@ -3,7 +3,7 @@ layout: post
 title:  "Bridge Slaying"
 date:   2013-12-07 13:00:00
 categories: session
-published: false
+draft: true
 ---
 {% capture killian %}[Killian Gerlach]({{site.baseurl}}/party/killian_gerlach.html){% endcapture %}
 {% capture oren %}[Oren Rocknocker]({{site.baseurl}}/party/oren_rocknocker.html){% endcapture %}

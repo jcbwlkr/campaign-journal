@@ -14,7 +14,11 @@ title: Campaign Journal
       <li>
           <span class="date">{{ post.date | date_to_string }}</span>
           &raquo;
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          {% if post.draft %}
+            (Coming Soon) {{ post.title }}
+          {% else %}
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          {% endif %}
       </li>
     {% endfor %}
   </ul>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The Coming Horde"
-date:   2013-12-07 13:00:00
+date:   2014-01-25 13:00:00
 categories: session
-published: false
+draft: true
 ---
 {% capture killian %}[Killian Gerlach]({{site.baseurl}}/party/killian_gerlach.html){% endcapture %}
 {% capture oren %}[Oren Rocknocker]({{site.baseurl}}/party/oren_rocknocker.html){% endcapture %}

@@ -3,7 +3,7 @@ layout: post
 title:  "The Fall of Drellin's Ferry"
 date:   2014-05-02
 categories: session
-published: false
+draft: true
 ---
 {% capture killian %}[Killian Gerlach]({{site.baseurl}}/party/killian_gerlach.html){% endcapture %}
 {% capture oren %}[Oren Rocknocker]({{site.baseurl}}/party/oren_rocknocker.html){% endcapture %}
