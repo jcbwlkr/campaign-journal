@@ -12,3 +12,9 @@ The items listed here are party items that are either not yet assigned to a pari
 * [Staff of Life](http://www.d20srd.org/srd/magicItems/staffs.htm#life)
 * Huge +1 Spiked Gauntlet with the visage of a frowning tusked mouth
 * Bag of Holding Type I
+
+## Loot from rusty iron coffer in swamp
+* Fancy rapier
+* Headband
+* Pearl
+* Ring
