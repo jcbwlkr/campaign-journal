@@ -48,18 +48,6 @@ Elwin tells the story of Rhest
 
 Party heads towards rhest
 
-breath counter: 2
-hp: 1
-
-23 warrick *
-20 killian
-16 oren
-16 mr_fabulous
-11 elwin
-09 krystal
-09 bad guy
-
-
 razorfiend blows, warrick charges, killian shoots lightning, killian summoned a giant eagle,  warrick killed it with a crit arrow shot
 
 killiar of the kiri tior shows up and the parties pass the diplomacy check. The party then goes to starsong hill

@@ -55,6 +55,4 @@ Because of a failed bluff roll by {{ oren }} the party ends up in a big fight.
 {{ elwin }} forces a giant prone with laughter
 
 
-# Day 16
-
 Everyone levels to 9
